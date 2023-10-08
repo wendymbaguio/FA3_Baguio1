@@ -1,0 +1,40 @@
+body {
+	background-image: url("imagebg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+h1 {
+    background-color: #1a82c1;
+	font-family: Garamond, Sans-serif;
+	text-align: center;
+	border-color: blue;
+	border-style: dotted;
+	border-width: 2px;
+	padding: 10px 15px;
+	width: 250px;
+	margin-bottom: 20px;
+}
+
+p {
+	text-align: justify;
+	background-color: hsl(201, 69%, 45%);
+	font-style: italic;
+	border-color: black;
+	border-top-style: double;
+	border-right-style: dashed;
+	border-bottom-style:groove;
+	border-left-style: dotted;
+	border-width: 3px;
+	padding: 20px;
+	width: 500px;
+}
+
+span {
+	font-weight: bold;
+	font-style: italic;
+	margin-left: 2px;
+	margin-right: 5px;
+	color: rgb(239, 209, 12);
+}
