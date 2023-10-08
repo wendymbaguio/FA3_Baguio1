@@ -15,6 +15,9 @@ h1 {
 	padding: 10px 15px;
 	width: 250px;
 	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+
 }
 
 p {
@@ -29,6 +32,8 @@ p {
 	border-width: 3px;
 	padding: 20px;
 	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 span {
